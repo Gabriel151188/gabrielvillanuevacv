@@ -1,0 +1,56 @@
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300  1) <!DOCTYPE html>
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300  2) <html lang="es">
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300  3) <head>
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300  4)     <meta charset="UTF-8">
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300  5)     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300  6)     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300  7)     <title>CV</title>
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300  8)     <link rel="stylesheet" href="css/estilos.css"
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300  9)     
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 10) </head>
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 11) 
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 12) <body>
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 13)     <form>
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 14)         <div align="right">
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 15)             <button id="boton1" onclick="alert(2610000000)"><img class= fotos src="imagenes/telefono.png"></button>
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 16)        
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 17)             <button id="boton2" onclick="alert('@gvillanu')"><img class= fotos src="imagenes/instagram.jpg"></button>
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 18)       
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 19)             <button id="boton3" onclick="alert('gvillanu@gmail.com')"><img class= fotos src="imagenes/arroba.png"></button>
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 20)         
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 21)             <button id="boton4" onclick="alert('Godoy Cruz - Mendoza')"><img class= fotos src="imagenes/casa.jpg"></button>
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 22)         </div>
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 23)     </form>
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 24) 
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 25)     <h1>
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 26)        
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 27)          Gabriel Villanueva            
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 28)         
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 29)         <img src="imagenes/foto1.jpeg" alt="La imagen de perfil no se carga correctamente">
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 30)         
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 31)     </h1>
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 32)        
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 33) 
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 34) 
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 35) 
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 36) 
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 37)     <h2>Experiencia laboral</h2>
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 38)     
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 39) 
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 40)     <h3>Empleado Municipal (9 años)</h3>
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 41) 
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 42)        <p>Desempeño administrativo, con manejo fluido de herramientas de Microsoft y programas internos propios de la institución, en la Municipalidad de la Ciudad de Mendoza.</p>
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 43)    
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 44)     <h3>Profesor de Historia (4 años)</h3>
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 45)    
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 46)         <p>Trabajo docente en la materia Historia e Historia y Formación Ética y Ciudadana, en escuelas secundarias de la Provincia de Mendoza.</p>
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 47)    
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 48)     
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 49) 
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 50) 
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 51) 
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 52) 
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 53) 
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 54)     
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 55) </body>
+^9f1a03e (Gabriel Villanueva 2023-01-16 18:12:12 -0300 56) </html>
