@@ -1,0 +1,68 @@
+
+body{
+    background-color: blue;
+    color: black;
+}
+
+
+h1{
+  color:white;
+  font-family: monospace;
+  font-size: 700%;
+  border: 5px solid powderblue;
+  padding: 30px;
+  margin: 10px;
+  text-align: left;
+}
+
+
+img{
+  align-items: right;
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+
+.fotos{
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+}
+
+h2{
+  color:grey;
+  font-family: monospace;
+  font-size: 400%;
+  padding: 10px;
+  text-align: center;
+
+}
+h3{
+  color:black;
+  font-family: monospace;
+  font-size: 200%;
+  padding: 10px;
+  margin: 10px;
+  text-align: left;
+}
+
+h4{
+  color:black;
+  font-family: monospace;
+  font-size: 300%;
+  padding: 100px;
+  margin: 10px;
+}
+
+p{
+  color:black;
+  font-family: monospace;
+  font-size: 150%;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 50px;
+  padding-left: 10px;
+  margin: 10px;
+  text-align: left;
+}
+
