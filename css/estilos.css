@@ -1,68 +1,89 @@
-
-body{
-    background-color: blue;
-    color: black;
+@font-face { font-family: 'Playfair Display'; src: url('fonts/PlayfairDisplay-VariableFont_wght.ttf'); } 
+body {
+  background-color: rgb(238, 238, 238);
+  color: rgb(43, 43, 43);
+  margin: 0;
+  padding: 0;
+  font-family: 'Playfair Display';
 }
 
-
-h1{
-  color:white;
-  font-family: monospace;
-  font-size: 700%;
-  border: 5px solid powderblue;
-  padding: 30px;
-  margin: 10px;
-  text-align: left;
+header {
+  text-align: center;
+  background-color: #9f9f9f;
+  width: 100%;
+  height: 470px;
 }
 
-
-img{
-  align-items: right;
+.imgTitle {
+  box-shadow: 1px 1px 20px #c2c2c2;
   border-radius: 50%;
+  margin-top: 34px;
   width: 200px;
   height: 200px;
 }
 
-.fotos{
-  border-radius: 50%;
+.mainIcons {
+  width: 40px;
+  height: 40px;
+}
+
+.mainIconsPhone {
+  margin-right: 10px;
   width: 30px;
   height: 30px;
 }
 
-h2{
-  color:grey;
-  font-family: monospace;
-  font-size: 400%;
-  padding: 10px;
-  text-align: center;
-
-}
-h3{
-  color:black;
-  font-family: monospace;
-  font-size: 200%;
-  padding: 10px;
-  margin: 10px;
-  text-align: left;
+.nameTitle {
+  margin-top: 12px;
+  font-size: 62px;
+  text-shadow: 1px 2px #c2c2c2;
 }
 
-h4{
-  color:black;
-  font-family: monospace;
-  font-size: 300%;
-  padding: 100px;
-  margin: 10px;
+.professionTitle {
+  margin-top: -38px;
+  text-transform: uppercase;
+  font-size: 28px;
+  text-shadow: 1px 2px #c2c2c2;
 }
 
-p{
-  color:black;
-  font-family: monospace;
-  font-size: 150%;
-  padding-top: 10px;
-  padding-right: 10px;
-  padding-bottom: 50px;
-  padding-left: 10px;
-  margin: 10px;
-  text-align: left;
+main {
+  width: 100%;
+  height: 80px;  
+  display: flex;
+  justify-content: center;
+
 }
 
+header article section {
+  font-size: 18px;
+  font-weight: 700;
+  margin-left: 25px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+
+header article {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+hr {
+  margin: 0px;
+  height: 1px;
+  background-color: #4f4f4f;
+}
+
+.temaTitle {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.titleIcons {
+  margin-top: 3px;
+  width: 35px;
+  height: 35px;
+}
